@@ -1,5 +1,4 @@
-# Status
-## Currently working on a new sound enging, the project is progressing steadly.
+# Hi there
 <!--
 **ChthollyNS-0185/ChthollyNS-0185** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
